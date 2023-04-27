@@ -5,8 +5,8 @@
    # Do not use this in production. Sample purpose only.
    
    # Author: Upkar Lidder (IBM)
-   # Additional Authors: Alan-crt
-   # <your GitHub username>
+   # Additional Authors: 
+   # Alan-crt
    
    # Input:
    # p, principal amount
